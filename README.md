@@ -1,4 +1,8 @@
-# Retail Sales Analysis Project
+<h1 align="center">Retail Sales Analysis Project</h1>
+
+<p align="center">
+  <img src="https://github.com/Abdoo50/Retail-Sales-Analysis/blob/main/Dashboard.png">
+</p>
 
 ### Project Overview
 
