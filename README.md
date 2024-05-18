@@ -1,30 +1,4 @@
 # Retail Sales Analysis Project
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            text-align: center;
-        }
-        .title {
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
-<div class="title">
-    Retail Sales Analysis Project
-</div>
-<img src="path_to_your_image" alt="Retail Sales Analysis Interpretation" class="center">
-
-</body>
-</html>
 
 ### Project Overview
 
